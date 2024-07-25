@@ -4593,6 +4593,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 87.63) (xy 96.52 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ac47652-3aee-4693-9c39-33c0fd1917a4")
+	)
+	(wire
+		(pts
 			(xy 44.45 137.16) (xy 44.45 133.35)
 		)
 		(stroke
@@ -6703,7 +6713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 97.79 0)
 			(effects
 				(font
@@ -6767,7 +6777,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 96.266 133.096 90)
 			(effects
 				(font
@@ -6834,7 +6844,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 97.79 123.19 0)
 			(effects
 				(font
@@ -6898,7 +6908,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 166.37 111.76 0)
 			(effects
 				(font
@@ -6998,7 +7008,7 @@
 			(uuid "6d5f4998-d048-4179-a04d-753051888200")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "#PWR06")
 					(unit 1)
@@ -7031,7 +7041,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.55 45.72 0)
 			(effects
 				(font
@@ -7098,7 +7108,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 95.25 0)
 			(effects
 				(font
@@ -7162,7 +7172,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 105.41 0)
 			(effects
 				(font
@@ -7226,7 +7236,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 97.79 118.11 0)
 			(effects
 				(font
@@ -7291,7 +7301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSOT-23-5_D5_MCH"
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-5_HandSoldering"
 			(at 232.41 40.64 0)
 			(effects
 				(font
@@ -7336,7 +7346,7 @@
 			(uuid "1c531e8e-8e70-44af-af52-35d3ede9c261")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "U2")
 					(unit 1)
@@ -7369,7 +7379,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 32.004 119.634 90)
 			(effects
 				(font
@@ -7436,7 +7446,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 97.79 120.65 0)
 			(effects
 				(font
@@ -7500,7 +7510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 96.266 96.266 90)
 			(effects
 				(font
@@ -7567,7 +7577,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.55 50.8 0)
 			(effects
 				(font
@@ -7667,7 +7677,7 @@
 			(uuid "e8b1b8a8-8c86-47ce-ba4d-d6f123160807")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "#PWR017")
 					(unit 1)
@@ -7700,7 +7710,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 139.446 51.816 90)
 			(effects
 				(font
@@ -7767,7 +7777,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 233.68 123.19 0)
 			(effects
 				(font
@@ -7834,7 +7844,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 100.33 0)
 			(effects
 				(font
@@ -7898,7 +7908,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 139.446 39.116 90)
 			(effects
 				(font
@@ -7965,7 +7975,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 111.76 132.08 0)
 			(effects
 				(font
@@ -8161,7 +8171,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 90.17 0)
 			(effects
 				(font
@@ -8291,7 +8301,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 107.95 0)
 			(effects
 				(font
@@ -8355,7 +8365,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 101.346 136.906 90)
 			(effects
 				(font
@@ -8422,7 +8432,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 113.03 0)
 			(effects
 				(font
@@ -8486,7 +8496,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 35.814 125.476 90)
 			(effects
 				(font
@@ -8554,7 +8564,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 149.86 50.8 0)
 			(effects
 				(font
@@ -8588,7 +8598,7 @@
 			(uuid "cb112bfe-590b-44fc-acbb-20a394044290")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "D2")
 					(unit 1)
@@ -8622,7 +8632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "bootswitch:SW_DHT-4235A"
 			(at 45.72 68.58 0)
 			(effects
 				(font
@@ -8689,7 +8699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 226.06 50.8 0)
 			(effects
 				(font
@@ -8756,7 +8766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 97.79 125.73 0)
 			(effects
 				(font
@@ -8820,7 +8830,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 227.33 116.84 0)
 			(effects
 				(font
@@ -8966,7 +8976,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:CSTCE_MUR"
 			(at 36.83 78.74 0)
 			(effects
 				(font
@@ -9103,7 +9113,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 92.71 0)
 			(effects
 				(font
@@ -9168,7 +9178,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 149.86 38.1 0)
 			(effects
 				(font
@@ -9202,7 +9212,7 @@
 			(uuid "9277a6cc-24bf-465e-88b1-675d9f452a2b")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "D3")
 					(unit 1)
@@ -9269,7 +9279,7 @@
 			(uuid "6d26a3b9-bdd0-4587-b080-1044a904f789")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "#PWR011")
 					(unit 1)
@@ -9335,7 +9345,7 @@
 			(uuid "c4606469-f90f-44fe-92f6-5747bfdaa881")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "#PWR09")
 					(unit 1)
@@ -9368,7 +9378,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 102.87 0)
 			(effects
 				(font
@@ -9402,6 +9412,70 @@
 			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Library:Conn_01x01_Pin")
+		(at 101.6 87.63 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a7dd6d50-e313-4e50-afb6-5938709743e1")
+		(property "Reference" "J2"
+			(at 109.728 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PPM"
+			(at 104.648 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "oscillator:sqarepad"
+			(at 101.6 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 101.6 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d7f0769-abf1-4343-b397-2330275a86e0")
+		)
+		(instances
+			(project "dronehopefully"
+				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -9498,7 +9572,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 125.476 173.736 90)
 			(effects
 				(font
@@ -9697,7 +9771,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 143.256 159.004 90)
 			(effects
 				(font
@@ -9764,7 +9838,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.55 55.88 0)
 			(effects
 				(font
@@ -9831,7 +9905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.55 40.64 0)
 			(effects
 				(font
@@ -9964,7 +10038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 103.886 98.806 90)
 			(effects
 				(font
@@ -10064,7 +10138,7 @@
 			(uuid "13f02d0d-50b5-49fc-bb3b-645d826569a9")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "#PWR02")
 					(unit 1)
@@ -10098,7 +10172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN24_3X3X0P9_IVS"
+		(property "Footprint" "MPU6500:QFN24_3X3X0P9_IVS"
 			(at 179.07 81.28 0)
 			(effects
 				(font
@@ -10203,7 +10277,7 @@
 			(uuid "b11daa19-b11a-4ad4-ab6d-17fbb3f2da27")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "U3")
 					(unit 1)
@@ -10236,7 +10310,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 39.37 137.16 0)
 			(effects
 				(font
@@ -10303,7 +10377,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 96.774 71.374 90)
 			(effects
 				(font
@@ -10370,7 +10444,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 39.37 142.24 0)
 			(effects
 				(font
@@ -10437,7 +10511,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 43.18 110.49 0)
 			(effects
 				(font
@@ -10501,7 +10575,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 269.24 50.8 0)
 			(effects
 				(font
@@ -10609,7 +10683,7 @@
 			(uuid "9e959a2a-1de6-449f-b917-b68b26a584e5")
 		)
 		(instances
-			(project ""
+			(project "dronehopefully"
 				(path "/96c9ff8d-260b-4fe2-8129-d7549cf60560"
 					(reference "D1")
 					(unit 1)
@@ -10642,7 +10716,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 111.76 135.89 0)
 			(effects
 				(font
@@ -10706,7 +10780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 99.06 58.42 0)
 			(effects
 				(font
@@ -10770,7 +10844,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 45.974 71.374 90)
 			(effects
 				(font
@@ -10837,7 +10911,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "oscillator:sqarepad"
 			(at 113.03 172.72 0)
 			(effects
 				(font
@@ -10970,7 +11044,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_Micro-AB_Molex_47590-0001"
 			(at 115.57 96.52 0)
 			(effects
 				(font
@@ -11049,7 +11123,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.55 60.96 0)
 			(effects
 				(font
